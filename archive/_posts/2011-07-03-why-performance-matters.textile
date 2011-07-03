@@ -14,5 +14,4 @@ p(publish_date). 10 Apr 2008
 </blockquote>
 
 
-<p>巴拉巴拉扒拉</p>
 
