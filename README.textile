@@ -1,0 +1,3 @@
+h1. 这些是我的作文存档
+
+这个是自动用"Jekyll":http://github.com/mojombo/jekyll 生成的静态页面站点。 

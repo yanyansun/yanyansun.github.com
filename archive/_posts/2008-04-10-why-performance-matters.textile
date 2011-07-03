@@ -1,0 +1,18 @@
+---
+layout: no-code-post
+title: 我和黄媛婷说再见
+---
+
+h2. {{ page.title }}
+
+p(publish_date). 10 Apr 2008
+
+
+
+<blockquote>
+"一天"
+</blockquote>
+
+
+<p>巴拉巴拉扒拉</p>
+
